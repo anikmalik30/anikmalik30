@@ -1,9 +1,10 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+%26+.NET+Engineer;Open+Source+Contributor;Backend+Specialist&center=true&width=500&height=50">
-</p>
 
 <h1 align="center">Hi 👋, I'm Anik Malik</h1>
 <h3 align="center">Full Stack Developer | MERN & Backend Engineer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+%26+.NET+Engineer;Open+Source+Contributor;Backend+Specialist&center=true&width=500&height=50">
+</p>
 
 <p align="center">
 Building scalable APIs • Backend Systems • Web Applications
